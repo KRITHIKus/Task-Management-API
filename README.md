@@ -26,7 +26,20 @@ A **RESTful API** for managing tasks with features like user authentication, tas
 
 ## Project Structure
 
-task-api/ │ ├── backend/ │ ├── config/ # Database connection configuration │ ├── controllers/ # Controllers for task and auth logic │ ├── middlewares/ # Middleware for request logging, error handling, and authentication │ ├── models/ # Mongoose schemas for User and Task │ ├── routes/ # API route definitions │ ├── .env # Environment variables (not tracked by Git) │ ├── .gitignore # Ignored files and directories │ ├── app.js # Main application entry point │ └── package.json 
+```
+task-api/
+│
+├── backend/
+│   ├── config/          # Database connection configuration
+│   ├── controllers/     # Controllers for task and auth logic
+│   ├── middlewares/     # Middleware for request logging, error handling, and authentication
+│   ├── models/          # Mongoose schemas for User and Task
+│   ├── routes/          # API route definitions
+│   ├── .env             # Environment variables (not tracked by Git)
+│   ├── .gitignore       # Ignored files and directories
+│   ├── app.js           # Main application entry point
+│   └── package.json
+```
 
 # Project metadata and dependencies
 
