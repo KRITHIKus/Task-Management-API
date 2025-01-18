@@ -271,6 +271,7 @@ You can test the API endpoints using tools like [Postman](https://www.postman.co
     "message": "Task deleted successfully"
 }
 
+```
 ## Tech Stack
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB (Mongoose)
