@@ -292,3 +292,10 @@ You can test the API endpoints using tools like [Postman](https://www.postman.co
 - **Logging**: Morgan
 
 ---
+## Conclusion
+
+This project was developed as part of a task submission to demonstrate backend development skills using Node.js, Express.js, and MongoDB. It includes key features such as JWT authentication, a well-organized project structure, and logging with Morgan.
+
+Thank you for reviewing this submission! For more projects, feel free to visit my [portfolio](https://krithik.onrender.com/).
+
+
