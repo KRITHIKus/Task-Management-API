@@ -61,12 +61,30 @@ Ensure you have the following installed on your system:
    git clone https://github.com/KRITHIKus/Task-Management-API.git
    cd Task-Management-API/backend
 
-## 2.Install Dependencies:
+## 2.Install Dependencies and List of Dependencies used:
 
-bash
-Copy
-Edit
 npm install
+
+# Dependencies
+
+### **Express**
+A minimal and flexible Node.js web application framework used for building APIs and handling routing.
+
+### **Mongoose**
+A MongoDB object modeling tool that provides schema-based solutions to model application data.
+
+### **Dotenv**
+Loads environment variables from a `.env` file into `process.env`, ensuring sensitive information like database credentials and API secrets remain secure.
+
+### **Bcryptjs**
+A library to hash passwords securely and compare hashed passwords during user authentication.
+
+### **Jsonwebtoken (JWT)**
+A library to generate and verify JSON Web Tokens (JWTs) for secure user authentication.
+
+### **Morgan**
+A middleware for logging HTTP requests in the console, useful for debugging and monitoring API activity.
+
 
 ## 3. Set Up Environment Variables
 
